@@ -5,6 +5,7 @@ Análise exploratória de um dataset com 5.000 registros de compras de clientes,
 com o objetivo de identificar padrões de comportamento e insights de negócio.
 
 ## 🗂️ Estrutura do Projeto
+```
 projeto/
 │
 ├── data/                               # Dataset utilizado
@@ -13,6 +14,7 @@ projeto/
 ├── aed.ipynb                           # Notebook com a análise completa
 ├── .gitignore                          # Arquivos ignorados pelo Git
 └── README.md                           # Documentação do projeto   
+```
 
 ## 🎯 Objetivos da Análise
 - Entender o perfil dos clientes (idade, gênero, localização)
